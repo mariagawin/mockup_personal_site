@@ -51,7 +51,7 @@ hr {
 
 .top-cloud {
    position: absolute;
-   right: 20rem;
+   right: 12rem;
    top: 5rem;
 }
 
@@ -70,7 +70,7 @@ hr {
 .bottom-cloud {
    position: absolute;
    bottom: 14rem;
-   left: 20.5rem;
+   left: 13rem;
 }
 
 /* Profile section */
@@ -90,7 +90,7 @@ hr {
 
 .intro {
    margin: 0 auto;
-   width: 28rem;
+   width: 23rem;
 }
 
 /* Skills section */
@@ -175,7 +175,7 @@ hr {
 .footer-link {
    color: #11999E;
    font-size: 0.9rem;
-   padding: 10px 40px 0 35px;
+   padding: 10px 10px 0 10px;
    text-decoration: none;
 }
 
@@ -196,7 +196,7 @@ hr {
 @media screen and (max-width: 695px) {
    .mountain {
       padding-top: 5.6rem;
-      width: 29.1rem;
+      width: 23rem;
    }
 }
 
